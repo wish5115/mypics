@@ -1,2 +1,0 @@
-# mypics
-a pics vault
